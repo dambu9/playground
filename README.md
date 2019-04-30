@@ -1,24 +1,24 @@
-#Project Title
+# Project Title
 Playground (Number to Word Converter)
 
-#Getting Started
+# Getting Started
 ````
 git clone https://github.com/dambu9/playground.git
 ````
 
-#Prerequisites
+# Prerequisites
 Maven, git
 
-#Installing
+# Installing
 run the maven build
 ````
 mvn install
 ````
-#Running testcases
+# Running testcases
 Run the testcases using below command
 ````
 mvn test
 ````
 
-#Authors
+# Authors
 Yashwanth Reddy V
